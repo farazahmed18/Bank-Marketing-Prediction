@@ -92,4 +92,4 @@ Based on the model's findings, the following actions are recommended for the ban
 4.  The `bank-full.csv` dataset is included in this repository.
 
 ---
-*This project was completed by Faraz Ahmed Siddiqui Machine Learning & AI assessment.*
+*This project was completed by Faraz Ahmed Siddiqui for Machine Learning & AI assessment.*

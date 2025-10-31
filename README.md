@@ -63,8 +63,6 @@ The Random Forest model was the clear superior performer across all metrics, dem
 ### Key Findings: What drives a mortgage lead?
 Feature importance analysis from the Random Forest model revealed the top predictors for housing loan propensity.
 
-*(**Note:** You can take a screenshot of your "Top 10 Key Drivers" chart, upload it to your GitHub repository, and then edit this README to add the image link here.)*
-
 The most important predictors were a mix of campaign timing and customer attributes:
 1.  `month_may` (Importance: 0.1248)
 2.  `age` (Importance: 0.1196)
@@ -91,7 +89,7 @@ Based on the model's findings, the following actions are recommended for the ban
 1.  Clone this repository to your local machine.
 2.  Install the required libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
 3.  Open the Jupyter Notebook `[Your_Notebook_Name.ipynb]` to review the complete code and analysis.
-4.  The `bank-marketing.csv` dataset is included in this repository.
+4.  The `bank-full.csv` dataset is included in this repository.
 
 ---
-*This project was completed by Faraz Ahmed Siddiqui (M01088127) for the CST4215 (Machine Learning & AI) assessment.*
+*This project was completed by Faraz Ahmed Siddiqui Machine Learning & AI assessment.*

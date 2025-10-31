@@ -88,7 +88,7 @@ Based on the model's findings, the following actions are recommended for the ban
 
 1.  Clone this repository to your local machine.
 2.  Install the required libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
-3.  Open the Jupyter Notebook `[Your_Notebook_Name.ipynb]` to review the complete code and analysis.
+3.  Open the Jupyter Notebook `bankcode.ipynb` to review the complete code and analysis.
 4.  The `bank-full.csv` dataset is included in this repository.
 
 ---
